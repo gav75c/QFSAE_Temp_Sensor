@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=STM.SchDoc|SchDesignator=STM.SchDoc|FileName=STM.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=STM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=TOP.SchDoc|FileName=Power.SchDoc|SheetNumber= 
