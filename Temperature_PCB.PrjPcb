@@ -66,6 +66,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
+DocumentPath=..\Steering\CAN.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NOZMAXVT
+
+[Document3]
 DocumentPath=TOP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UCYNJLEN
 
-[Document3]
+[Document4]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,8 +116,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEKCYXGQ
 
-[Document4]
-DocumentPath=Fan.SchDoc
+[Document5]
+DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBNVTHSF
 
-[Document5]
+[Document6]
 DocumentPath=STM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHPTBHXJ
 
-[Document6]
+[Document7]
 DocumentPath=Temperature_PCB.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,6 +183,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXXQWDCM
+
+[Document9]
+DocumentPath=Headers.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GCYXRKJC
 
 [Configuration1]
 Name=Sources
