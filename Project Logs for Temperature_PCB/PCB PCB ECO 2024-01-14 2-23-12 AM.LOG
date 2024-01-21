@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=Fan 1 Signal Pin=STM-14
+Removed Pin From Net: NetName=Fan 2 Signal Pin=STM-15
+Removed Pin From Net: NetName=Fan 3 Signal Pin=STM-16
+Removed Pin From Net: NetName=Fan 4 Signal Pin=STM-17
+Removed Pin From Net: NetName=Temp 1 Pin=STM-21
+Removed Pin From Net: NetName=Temp 2 Pin=STM-22
+Removed Pin From Net: NetName=Temp 3 Pin=STM-23
+Removed Pin From Net: NetName=Fan 1 PWM Pin=STM-27
+Removed Pin From Net: NetName=Fan 2 PWM Pin=STM-28
+Removed Pin From Net: NetName=Temp 4 Pin=STM-41
+Removed Pin From Net: NetName=Fan 3 PWM Pin=STM-55
+Removed Pin From Net: NetName=Fan 4 PWM Pin=STM-56
+Removed Pin From Net: NetName=Debuging CLK Pin=STM-61
+Added Pin To Net: NetName=Temp 1 Pin=STM-11
+Added Pin To Net: NetName=Temp 3 Pin=STM-16
+Added Pin To Net: NetName=Fan 1 PWM Pin=STM-20
+Added Pin To Net: NetName=Fan 1 Signal Pin=STM-21
+Added Pin To Net: NetName=Fan 2 PWM Pin=STM-22
+Added Pin To Net: NetName=Fan 2 Signal Pin=STM-23
+Added Pin To Net: NetName=Fan 3 PWM Pin=STM-24
+Added Pin To Net: NetName=Fan 3 Signal Pin=STM-25
+Added Pin To Net: NetName=Fan 4 PWM Pin=STM-26
+Added Pin To Net: NetName=Fan 4 Signal Pin=STM-27
+Added Pin To Net: NetName=Temp 4 Pin=STM-35
+Added Pin To Net: NetName=Temp 2 Pin=STM-42
+Added Pin To Net: NetName=NetSTM_14 Pin=STM-14
+Added Net: Name=NetSTM_14
+Added Pin To Net: NetName=NetSTM_15 Pin=STM-15
+Added Net: Name=NetSTM_15
+Added Pin To Net: NetName=NetSTM_17 Pin=STM-17
+Added Net: Name=NetSTM_17
+Added Pin To Net: NetName=NetSTM_28 Pin=STM-28
+Added Net: Name=NetSTM_28
+Added Pin To Net: NetName=NetSTM_41 Pin=STM-41
+Added Net: Name=NetSTM_41
+Added Pin To Net: NetName=NetSTM_55 Pin=STM-55
+Added Net: Name=NetSTM_55
+Added Pin To Net: NetName=NetSTM_56 Pin=STM-56
+Added Net: Name=NetSTM_56
+Added Pin To Net: NetName=NetSTM_61 Pin=STM-61
+Added Net: Name=NetSTM_61

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Fan 1 PWM Pin=STM-20
+Removed Pin From Net: NetName=Fan 1 Signal Pin=STM-21
+Removed Pin From Net: NetName=Fan 2 PWM Pin=STM-22
+Removed Pin From Net: NetName=Fan 2 Signal Pin=STM-23
+Removed Pin From Net: NetName=Fan 3 PWM Pin=STM-24
+Removed Pin From Net: NetName=Fan 3 Signal Pin=STM-25
+Removed Pin From Net: NetName=Fan 4 PWM Pin=STM-26
+Removed Pin From Net: NetName=Fan 4 Signal Pin=STM-27
+Added Pin To Net: NetName=Fan 1 Signal Pin=STM-20
+Added Pin To Net: NetName=Fan 1 PWM Pin=STM-21
+Added Pin To Net: NetName=Fan 2 Signal Pin=STM-22
+Added Pin To Net: NetName=Fan 2 PWM Pin=STM-23
+Added Pin To Net: NetName=Fan 3 Signal Pin=STM-24
+Added Pin To Net: NetName=Fan 3 PWM Pin=STM-25
+Added Pin To Net: NetName=Fan 4 Signal Pin=STM-26
+Added Pin To Net: NetName=Fan 4 PWM Pin=STM-27

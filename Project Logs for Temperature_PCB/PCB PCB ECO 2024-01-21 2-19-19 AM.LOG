@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Temp 2 Pin=STM-42
+Removed Pin From Net: NetName=CAN_TX Pin=STM-44
+Removed Pin From Net: NetName=CAN_RX Pin=STM-45
+Removed Pin From Net: NetName=CAN STBY Pin=STM-46
+Removed Pin From Net: NetName=Debuging IO Pin=STM-59
+Change Component Designator: OldDesignator=U NewDesignator=IC1
+Added Pin To Net: NetName=CAN STBY Pin=STM-43
+Added Pin To Net: NetName=CAN_RX Pin=STM-44
+Added Pin To Net: NetName=CAN_TX Pin=STM-45
+Added Pin To Net: NetName=Temp 2 Pin=STM-46
+Added Pin To Net: NetName=Debuging IO Pin=STM-57
+Added Pin To Net: NetName=Debuging CLK Pin=STM-58
+Added Pin To Net: NetName=NetSTM_42 Pin=STM-42
+Added Net: Name=NetSTM_42
+Added Pin To Net: NetName=NetSTM_59 Pin=STM-59
+Added Net: Name=NetSTM_59
+Added Member To Class: ClassName=Power Member=Component C4 1 µF

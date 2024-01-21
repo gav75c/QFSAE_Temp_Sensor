@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Debuging IO Pin=STM-59
+Added Pin To Net: NetName=Debuging IO Pin=STM-57
+Added Pin To Net: NetName=Debuging CLK Pin=STM-58
+Added Pin To Net: NetName=NetSTM_59 Pin=STM-59
+Added Net: Name=NetSTM_59
+Added Member To Class: ClassName=Power Member=Component C4 1 µF

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Temp 2 Pin=STM-42
+Removed Pin From Net: NetName=CAN_TX Pin=STM-44
+Removed Pin From Net: NetName=CAN_RX Pin=STM-45
+Removed Pin From Net: NetName=CAN STBY Pin=STM-46
+Added Pin To Net: NetName=CAN STBY Pin=STM-43
+Added Pin To Net: NetName=CAN_RX Pin=STM-44
+Added Pin To Net: NetName=CAN_TX Pin=STM-45
+Added Pin To Net: NetName=Temp 2 Pin=STM-46
+Added Pin To Net: NetName=NetSTM_42 Pin=STM-42
+Added Net: Name=NetSTM_42
